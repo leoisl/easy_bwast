@@ -6,6 +6,8 @@ Written by Bryan Wee.
 
 Version 0.0.1 - 20150425
 
+Originally retrieved from https://github.com/bawee/bwast on 27th March 2023, git commit d96be51bb9a7d699e600a52697751a082e9e16b6
+
 """
 from __future__ import print_function
 
