@@ -1,0 +1,10 @@
+name: easy_bwast
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - python >=3.5.5
+  - biopython >=1.7.0
+  - artemis >=18.2.0
+  - blast >=2.9.0
