@@ -22,7 +22,7 @@ address with each request.
 ## Installing dependencies
 
 Create the `conda` env running: `conda env create -f environment.yaml`.
-Then just activate the environment to use `easy_bwast`.
+Then just activate the environment to use `easy_bwast`: `conda activate easy_bwast`.
 
 ## Usage
 
